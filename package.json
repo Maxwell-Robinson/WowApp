@@ -1,0 +1,22 @@
+{
+  "name": "wowapp",
+  "version": "1.0.0",
+  "description": "This is the repo where i wil be creating my world of warcraft app. Not sure what it is yet, but shall be interesting to see what i come up with!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxwell-Robinson/WowApp.git"
+  },
+  "author": "maxwell robinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maxwell-Robinson/WowApp/issues"
+  },
+  "homepage": "https://github.com/Maxwell-Robinson/WowApp#readme",
+  "dependencies": {
+    "passport-bnet": "^1.2.1"
+  }
+}
