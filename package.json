@@ -4,8 +4,10 @@
   "description": "This is the repo where i wil be creating my world of warcraft app. Not sure what it is yet, but shall be interesting to see what i come up with!",
   "main": "index.js",
   "scripts": {
-    "test": "node ./bin/www"
-    
+    "test": "node ./bin/www",
+    "dev": "nodemon ./bin/www"
+
+
   },
   "repository": {
     "type": "git",
